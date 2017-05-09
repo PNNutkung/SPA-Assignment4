@@ -6,11 +6,10 @@ on Coding using Spring Integration ENterprise Design Pattern using the library o
 Clone this project to your local machine.
 
 ### Prerequisites
-[Spring Tool Suuuuuuuuuuuuite]
-(https://spring.io/tools/sts/all) - Spring variant of Eclipse.  
+[Spring Tool Suuuuuuuuuuuuite](https://spring.io/tools/sts/all) - Spring variant of Eclipse.  
 Note: Of course, you can use your editor of choice i.e, IntelliJ, but you will have to manually setup a lot of stuffs and I won't cover that. Just use this one if you are lazy like me.
 
-#### Spring
+### Spring
 Extract spring tool suite to anywhere you wish.  
 Launch the suite and choose File > Open Project From File System...  
 Navigate to this project and wait for Maven to update dependencies.  
